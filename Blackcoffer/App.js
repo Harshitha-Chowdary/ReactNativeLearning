@@ -67,3 +67,12 @@ const App = () => {
 };
 
 export default App;
+const styles = StyleSheet.create({
+  container: {
+    flex:1,
+    paddingTop:50,
+    paddingHorizontal:16,
+    backgroundColor:'#1e085a',
+    padding:50,
+  }
+});
